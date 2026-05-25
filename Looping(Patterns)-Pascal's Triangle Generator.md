@@ -46,7 +46,7 @@ for i in range(num_rows):
 ```
 
 ## Sample Output
-<img width="201" height="225" alt="image" src="https://github.com/user-attachments/assets/bd922e3e-78a8-4ffd-beaf-dbd22cbbf480" />
+<img width="1205" height="455" alt="image" src="https://github.com/user-attachments/assets/46c002ad-12bf-43e8-8b08-ab90573d5cf3" />
 
 
 ## Result
