@@ -9,7 +9,7 @@ To write a Python program that checks whether a given number is a **palindrome**
 3. Initialize a variable `rev` to 0 (used to store the reversed number).
 4. Use a `while` loop to reverse the digits:
    - While `temp > 0`:
-     - `rev = (10 * rev) + temp % 10`
+     - `rev = (rev * 10) + digit`
      - `temp = temp // 10`
 5. After the loop, compare `rev` with `num`:
    - If equal, print that the number is a palindrome.
